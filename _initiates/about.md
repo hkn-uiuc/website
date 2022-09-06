@@ -2,6 +2,8 @@
 title: Initiates  
 ---
 
+TESTING CHANGES
+
 Welcome to the HKN Initiates Page! Important Information will be posted here as it is created for the current semester’s initiate class. If you have any questions about any of the content here please email Liz Boehning, the Director of Initiate Affairs (elb5@illinois.edu).
 
 <br />
